@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3772585132240456061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 32452873027870050, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Name
+      value: DoubleDoorRight
+      objectReference: {fileID: 0}
+    - target: {fileID: 769153653447498366, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 769153653447498366, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: doorOpenSprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 769153653447498366, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: doorClosedSprite
+      value: 
+      objectReference: {fileID: -1269703403, guid: a7b915f0d5adf1b4c8d7ab0b819b08fd, type: 3}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Size.x
+      value: 0.15999985
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Size.y
+      value: 0.50289536
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0516901
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.09599495
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.18722725
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.025448084
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.y
+      value: 0.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 3899208452206166480, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 4552448742734122227, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4552448742734122227, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.136
+      objectReference: {fileID: 0}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Size.x
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Size.y
+      value: 0.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1269703403, guid: a7b915f0d5adf1b4c8d7ab0b819b08fd, type: 3}
+    - target: {fileID: 5227868123919578466, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.216
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -39.007
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.009533219
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7169140868341422431, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 769153653447498366, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 32452873027870050, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7779326793490836396}
+    - targetCorrespondingSourceObject: {fileID: 32452873027870050, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5098024653609734207}
+  m_SourcePrefab: {fileID: 100100000, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+--- !u!82 &1405937712980109645 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 2871061075583688752, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+  m_PrefabInstance: {fileID: 3772585132240456061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3758712968512574495 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 32452873027870050, guid: 5ebdd4c40853a604886a0e0d3509da07, type: 3}
+  m_PrefabInstance: {fileID: 3772585132240456061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7779326793490836396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3758712968512574495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cd8c4cd597818488be437d308e5453, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isOpen: 0
+  openToLeft: 0
+  openAngle: -90
+  openOffsetLeft: {x: 0, y: 0, z: 0}
+  openOffsetRight: {x: -0.02, y: 0.035, z: 0}
+--- !u!114 &5098024653609734207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3758712968512574495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dc220a169669454d942efea80cd6196, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  doorClosedSprite: {fileID: -1269703403, guid: a7b915f0d5adf1b4c8d7ab0b819b08fd, type: 3}
+  doorOpenSprite: {fileID: 0}
+  isLocked: 0
+  requiredKeyName: Key
+  isOpen: 0
+  toRotate: 1
+  rotateController: {fileID: 7779326793490836396}
+  audioSource: {fileID: 1405937712980109645}
+  openClip: {fileID: 8300000, guid: 6d264f8baec6c974fbd31e7ddd3f3e37, type: 3}
